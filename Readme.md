@@ -35,16 +35,14 @@ Due to de ammount of detail in some images and the complexity of the mask (that 
 | Unet | 0.695   | 0.8764   |
 | Deeplab | 0.7359   | 0.8864   |
 
-<p float="left">
-  <figure style="display:inline-block; margin-right: 10px;">
-    <img src="Imagenes resultados/deeplab_image_part_003.png" width="45%" />
-    <figcaption>Deeplab Model</figcaption>
-  </figure>
-  <figure style="display:inline-block;">
-    <img src="Imagenes resultados/unet_image_part_003.png" width="45%" />
-    <figcaption>Unet Model</figcaption>
-  </figure>
-</p>
+<figure style="display:inline-block; margin-right: 10px;">
+  <img src="Imagenes resultados/deeplab_image_part_003.png" />
+  <figcaption>Deeplab Model</figcaption>
+</figure>
+<figure style="display:inline-block;">
+  <img src="Imagenes resultados\unet_image_part_003..png" />
+  <figcaption>Unet Model</figcaption>
+</figure>
 
 | Model | Dice (Img)   | Accuracy (Img)    |
 | :---:   | :---: | :---: |
