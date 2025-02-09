@@ -37,11 +37,11 @@ Due to de ammount of detail in some images and the complexity of the mask (that 
 
 <p float="left">
   <figure style="display:inline-block; margin-right: 10px;">
-    <img src="Img results/deeplab_image_part_003.png" width="45%" />
+    <img src="Imagenes resultados/deeplab_image_part_003.png" width="45%" />
     <figcaption>Deeplab Model</figcaption>
   </figure>
   <figure style="display:inline-block;">
-    <img src="Img results/unet_image_part_003.png" width="45%" />
+    <img src="Imagenes resultados/unet_image_part_003.png" width="45%" />
     <figcaption>Unet Model</figcaption>
   </figure>
 </p>
